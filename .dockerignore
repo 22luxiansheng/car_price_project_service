@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+notebooks/
+reports/
+docs/
+_archive/
+data/*.db
+data/*.db-*
+logs.log
+.env
+.venv/
+venv/
+.git/

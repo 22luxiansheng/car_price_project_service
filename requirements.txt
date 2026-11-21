@@ -1,0 +1,10 @@
+fastapi==0.138.2
+uvicorn==0.49.0
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost==3.2.0
+joblib==1.3.2
+SQLAlchemy==2.0.51
+plotly==6.8.0
+python-multipart==0.0.32
